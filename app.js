@@ -1,1 +1,4 @@
-console.log('Estamos en el app');
+const message = 'Estamos en el app'
+
+console.log(message);
+
